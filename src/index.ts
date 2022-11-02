@@ -1,5 +1,5 @@
 /**
-* This is the main code that runs
+ * This is the main code that runs
  * with the Vehicle Class.
  *
  * By:      Mr Coxall
